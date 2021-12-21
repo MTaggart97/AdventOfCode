@@ -1,0 +1,6 @@
+name: aoc2021
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - matplotlib
